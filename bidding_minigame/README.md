@@ -1,4 +1,4 @@
-# Auction Bid Winner Finder
+# Minigame - Bidding Software
 
 This documentation explains a simple Python script that allows users to input bids from multiple bidders and find the winner with the highest bid.
 
